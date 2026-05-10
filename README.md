@@ -32,7 +32,7 @@ A complete microservices setup with API Gateway, service registry, centralized c
 - Fault tolerance with Resilience4J  
 - Distributed tracing with Zipkin  
 
-🔗 Repo: _Coming soon (I'll help you structure it if needed)_
+🔗 Repo: https://github.com/manikanta-h-java-backend-developer/spring-cloud-microservices-platform
 
 ---
 
