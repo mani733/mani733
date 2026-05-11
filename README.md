@@ -45,7 +45,7 @@ Migrated and designed backend services with optimized database schemas & secure 
 - Loan eligibility rules engine  
 - Backend validations & exception handling  
 
-🔗 https://github.com/mani733/LoanBankingSystem.github.io
+🔗 [Click Here For Repo Link](https://github.com/manikanta-h-java-backend-developer/loan-banking-system)
 
 ---
 
