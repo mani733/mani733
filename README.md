@@ -32,7 +32,7 @@ A complete microservices setup with API Gateway, service registry, centralized c
 - Fault tolerance with Resilience4J  
 - Distributed tracing with Zipkin  
 
-🔗 Repo: https://github.com/manikanta-h-java-backend-developer/spring-cloud-microservices-platform
+🔗 [View Source Code](https://github.com/manikanta-h-java-backend-developer/spring-cloud-microservices-platform)
 
 ---
 
@@ -45,7 +45,7 @@ Migrated and designed backend services with optimized database schemas & secure 
 - Loan eligibility rules engine  
 - Backend validations & exception handling  
 
-🔗 [Click Here For Repo Link](https://github.com/manikanta-h-java-backend-developer/loan-banking-system)
+🔗 [View Source Code](https://github.com/manikanta-h-java-backend-developer/loan-banking-system)
 
 ---
 
