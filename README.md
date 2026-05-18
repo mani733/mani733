@@ -50,7 +50,7 @@ Migrated and designed backend services with optimized database schemas & secure 
 ---
 
 ### 🟪 **3. Spring Batch ETL Pipeline**
-Migrated mainframe batch jobs to Spring Batch microservices (same as your Cognizant experience).
+Migrated mainframe batch jobs to Spring Batch microservices.
 
 **Tech:** Spring Batch, Microservices, Docker, Kubernetes  
 **Features:**  
